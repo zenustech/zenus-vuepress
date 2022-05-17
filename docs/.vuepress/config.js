@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Zenus Doc',
     description: 'Just playing around',
-    base: "./",
+    base: '/zenus-vuepress/',
     themeConfig: {
         logo: '/assets/img/logo.png',
         search: true,
