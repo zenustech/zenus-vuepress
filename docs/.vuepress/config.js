@@ -15,7 +15,7 @@ module.exports = {
         sidebar: [
             ['/','首页'],
             '/title1/',
-            '/title2/'
+            ['/title2/', '设置数据缓存路径']
           ]
       }
   }
