@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /assets/img/logo.png
 heroText: Zenus Doc
 # tagline: 副标题
 actionText: 快速上手 →

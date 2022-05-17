@@ -1,8 +1,9 @@
 module.exports = {
     title: 'Zenus Doc',
     description: 'Just playing around',
+    base: "./",
     themeConfig: {
-        logo: '/logo.png',
+        logo: '/assets/img/logo.png',
         search: true,
         searchMaxSuggestions: 10,
         // displayAllHeaders: true,
