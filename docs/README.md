@@ -19,6 +19,8 @@ features:
 
     yarn install
     yarn docs:dev
+
+本地运行请注释config.js里的base内容
     
 访问 http://localhost:8080
 

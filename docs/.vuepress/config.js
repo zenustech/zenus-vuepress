@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Zenus Doc',
     description: 'Just playing around',
-    base: '/zenus-vuepress/',
+    base: '/zenus-vuepress/', //本地运行请注释
     themeConfig: {
         logo: '/assets/img/logo.png',
         search: true,
